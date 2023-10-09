@@ -60,3 +60,7 @@
 .blog-body {
   padding-bottom: 2rem;
 }
+
+.blog-preview a {
+  text-decoration: none;
+}
