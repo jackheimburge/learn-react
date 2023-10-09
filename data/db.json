@@ -1,12 +1,6 @@
 {
   "blogs": [
     {
-      "title": "blog 1",
-      "body": "blah blah blog 1 2 3",
-      "author": "Jack",
-      "id": 1
-    },
-    {
       "title": "blog 12",
       "body": "blah blah blog 1 2 3",
       "author": "Zoe",
@@ -23,12 +17,6 @@
       "body": "sdfdsf",
       "author": "Jack",
       "id": 4
-    },
-    {
-      "title": "dfsd",
-      "body": "sdfsdf",
-      "author": "Jack",
-      "id": 5
     }
   ]
 }
